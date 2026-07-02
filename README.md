@@ -46,7 +46,7 @@ Moving the gate to level 40 hurt retention at both time windows. Day-7 retention
 ## How to run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cookie-cats-ab-test
+git clone https://github.com/flex12397/cookie-cats-ab-test
 cd cookie-cats-ab-test
 pip install -r requirements.txt
 jupyter notebook cookie_cats_ab_test_analysis.ipynb
